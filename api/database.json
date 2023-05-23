@@ -1,0 +1,147 @@
+{
+  "submissions": [
+    {
+      "id": 1,
+      "ownsBlueJeans": false,
+      "socioLocationId": 1
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 2
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 3
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 1,
+      "id": 4
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 1,
+      "id": 5
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 2,
+      "id": 6
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 3,
+      "id": 7
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 8
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 9
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 2,
+      "id": 10
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 11
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 4,
+      "id": 12
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 13
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 14
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 4,
+      "id": 15
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 16
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 17
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 18
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 19
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 20
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 21
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 0,
+      "id": 22
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 1,
+      "id": 23
+    },
+    {
+      "ownsBlueJeans": false,
+      "socioLocationId": 3,
+      "id": 24
+    },
+    {
+      "ownsBlueJeans": true,
+      "socioLocationId": 4,
+      "id": 25
+    }
+  ],
+  "socioLocations": [
+    {
+      "id": 1,
+      "label": "Urban"
+    },
+    {
+      "id": 2,
+      "label": "Suburban"
+    },
+    {
+      "id": 3,
+      "label": "Semi-Rural"
+    },
+    {
+      "id": 4,
+      "label": "Rural"
+    }
+  ]
+}
